@@ -1,5 +1,5 @@
 # codemegit_ci_cd
-
+[![Codemagic build status](https://api.codemagic.io/apps/5ee341bd4d6c1200147ee95f/5ee35d0d4d6c12000ac81c27/status_badge.svg)](https://codemagic.io/apps/5ee341bd4d6c1200147ee95f/5ee35d0d4d6c12000ac81c27/latest_build)
 A new Flutter project.
 
 ## Getting Started
